@@ -1,0 +1,10 @@
+
+train: ./data/train
+val: ./data/val
+
+
+# number of classes
+nc: 5
+
+# class names
+names: [ 'electic car','military','private','rental','transport' ]
